@@ -1,3 +1,5 @@
-hi 
-naresh
-status code done
+#include<stdio.h>
+ main()
+{
+printf(" I am learning devops");
+}
